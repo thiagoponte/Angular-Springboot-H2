@@ -23,9 +23,12 @@ Run the backend app: ``` mvn spring-boot:run ```
 
 ### Frontend application
 
+Install nvm: https://github.com/nvm-sh/nvm ``` curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash ```
+
+
 Install Node 10: ``` nvm install lts/dubnium ```
 
-Use node 10: ``` nvm use 10 ```
+Use Node 10: ``` nvm use 10 ```
 
 Install Angular 6 or higher: https://www.npmjs.com/package/@angular/cli
 ``` npm install -g @angular/cli@6.1.1 ```
