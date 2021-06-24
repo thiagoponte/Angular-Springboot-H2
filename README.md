@@ -9,7 +9,7 @@
 
 ## Instructions
 
-Assuming Ubuntu Linux for the install commands, adjust accordinly to your OS.
+Assuming Ubuntu Linux for the install commands, adjust accordingly to your OS.
 
 ### Backend application
 
