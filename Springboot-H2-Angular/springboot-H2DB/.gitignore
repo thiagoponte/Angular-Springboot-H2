@@ -1,0 +1,9 @@
+doc
+tools
+/.settings/org.eclipse.wst.common.component
+/gendocs/*.json
+/gendocs/strapdown.html
+target/
+Gemfile.lock
+*.iml
+.idea
